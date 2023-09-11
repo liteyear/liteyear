@@ -7,4 +7,4 @@ Liteyear Design is your go-to platform for all things related to creative design
 Join us on a journey to explore the world of design possibilities, collaborate with like-minded designers, and bring your creative visions to life.
 
 Ready to embark on your creative adventure? Let's get started! 🎨✨
-Email us mailto:liteyeardesign@gmail.com 
+Email us liteyeardesign@gmail.com 
