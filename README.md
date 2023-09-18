@@ -1,6 +1,6 @@
 # Welcome to Liteyear Design 🚀
 
-![Liteyear Design Logo](link_to_logo.png)
+![Liteyear Design Logo](https://liteyeardesign.files.wordpress.com/2023/08/76f4ecf7-6e27-442c-b49d-6c546d64f572.png)
 
 Liteyear Design is your creative hub where innovation and imagination converge! 
 
@@ -16,13 +16,6 @@ At Liteyear Design, we're dedicated to pushing the boundaries of design across v
 
 ## Our Code Skills 🖥️
 
-```javascript
-const liteyearDesign = {
-  webDesign: "HTML, CSS, JavaScript, React",
-  graphicDesign: "Adobe Creative Suite",
-  mobileApps: "React Native, Swift, Kotlin",
-  collaboration: "Git, GitHub",
-};
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -50,3 +43,4 @@ const liteyearDesign = {
     </script>
 </body>
 </html>
+
