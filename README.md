@@ -22,25 +22,35 @@ At Liteyear Design, we're dedicated to pushing the boundaries of design across v
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-        #hello-message {
-            font-size: 2rem;
-            text-align: center;
-            margin-top: 20px;
-            animation: float 3s infinite ease-in-out;
+        body {
+            background-color: #121212;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
         }
-        
-        @keyframes float {
-            0%, 100% { transform: translateY(0); }
-            50% { transform: translateY(-10px); }
+
+        #hello-message {
+            font-size: 3rem;
+            color: #FFA500;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            animation: neon 1s ease-in-out infinite alternate;
+        }
+
+        @keyframes neon {
+            0% {
+                text-shadow: 0 0 10px #FFA500, 0 0 20px #FFA500, 0 0 30px #FFA500;
+            }
+            100% {
+                text-shadow: 0 0 20px #FFD700, 0 0 40px #FFD700, 0 0 60px #FFD700;
+            }
         }
     </style>
 </head>
 <body>
-    <div id="hello-message">Hello, World!</div>
-
-    <script>
-        // Optional: You can add JavaScript functionality here.
-    </script>
+    <div id="hello-message">Say Hello to Innovation!</div>
 </body>
 </html>
 
