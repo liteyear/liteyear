@@ -1,4 +1,4 @@
-![Liteyear Design Header Image](https://www.liteyear.design/wp-content/uploads/2023/12/Liteyear.png)
+![Liteyear Design Header Image]([https://www.liteyear.design/wp-content/uploads/2023/12/Liteyear.png](https://www.liteyear.design/wp-content/uploads/2024/09/Black-and-Red-Minimalist-AI-Websites-Review-YouTube-Thumbnail-1.jpg))
 
 # Welcome to Liteyear Design 🚀
 
