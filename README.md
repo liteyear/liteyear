@@ -21,8 +21,10 @@ At Liteyear Design, we specialize in building **cutting-edge websites** and craf
 ### 🔧 **Featured Projects:**
 Here are some of our top projects showcasing our skills:
 
-- [Project A - Custom E-commerce Platform](#): A responsive, high-converting e-commerce platform built with React and Node.js.
-- [Project B - SEO-Optimized WordPress Site](#): Fully optimized for SEO, this site ranks on the first page of Google for competitive keywords.
+- [Project A - SEO-Optimized WordPress Site](https://codeprohq.com): A responsive, high-converting agency landing page built with HTML and CSS
+- [Project B - SEO-Optimized WordPress Site](https://digitalminds.design): Fully optimized for SEO, this site ranks on the first page of Google for competitive keywords.
+- [Project B - SEO-Optimized WordPress Site](https://webgeniushq.com): Fully optimized for lead conversion.
+
 
 ---
 
