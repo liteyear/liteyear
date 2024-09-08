@@ -1,5 +1,13 @@
 ![Liteyear Design Header Image](https://www.liteyear.design/wp-content/uploads/2024/09/liteyear.jpg)
 
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![WordPress](https://img.shields.io/badge/WordPress-CMS-blue)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-Ecommerce-purple)
+![Shopify](https://img.shields.io/badge/Shopify-eCommerce-green)
+
+
 # Welcome to Liteyear Design 🚀
 
 **Custom Web Design and Digital Marketing Solutions that bring your vision to life.**  
