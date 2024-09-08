@@ -43,10 +43,6 @@ Here are some of our top projects showcasing our skills:
 
 ---
 
-## **Portfolio**
-<iframe src="https://digitalminds.design" width="100%" height="600" style="border:none; overflow:auto;" scrolling="yes"></iframe>
----
-
 ## ⭐ Client Testimonials
 
 ### Theresa Struckmeyer
