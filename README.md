@@ -7,6 +7,14 @@
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-Ecommerce-purple)
 ![Shopify](https://img.shields.io/badge/Shopify-eCommerce-green)
 
+![Node.js](https://img.shields.io/badge/Node.js-runtime-green)
+![Discord](https://img.shields.io/badge/Discord-Bots%20%26%20Automation-5865F2)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-media%20pipeline-black)
+![RSS](https://img.shields.io/badge/RSS-Streaming-orange)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red)
+![Automation](https://img.shields.io/badge/Automation-Workflows-blueviolet)
+![AI](https://img.shields.io/badge/AI-Tools-9cf)
+
 
 # Welcome to Liteyear Design Labs 🚀
 
