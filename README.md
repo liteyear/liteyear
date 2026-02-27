@@ -8,21 +8,51 @@
 ![Shopify](https://img.shields.io/badge/Shopify-eCommerce-green)
 
 
-# Welcome to Liteyear Design 🚀
+# Welcome to Liteyear Design Labs 🚀
 
-**Custom Web Design and Digital Marketing Solutions that bring your vision to life.**  
-At Liteyear Design, we specialize in building **cutting-edge websites** and crafting **tailored digital marketing strategies**. From sleek, responsive web designs to powerful custom development solutions, we’re your go-to experts for everything digital. Whether you’re starting from scratch or breathing new life into an old site, we deliver results that matter.
 
-🛠 **What We Do:**
-- Custom Website Design & Development
-- SEO and Digital Marketing Solutions
-- E-commerce and Web App Development
-- UX/UI Design and Conversion Optimization
+Independent development lab exploring tools, automation, and infrastructure for digital media systems.
 
-🌟 **Technologies We Work With:**
-- HTML, CSS, JavaScript
-- React, Node.js, WordPress, PHP
-- Python, MySQL, and more!
+---
+
+## Current Projects
+
+### SkySignal.AM
+24/7 Discord broadcast engine that streams podcast RSS feeds into voice channels.
+
+• autonomous radio system  
+• persistent playback state  
+• FFmpeg audio pipeline  
+• Discord voice infrastructure
+
+---
+
+### Media Automation
+
+Tools and experiments around:
+
+• AI video pipelines  
+• content generation workflows  
+• automated publishing systems  
+• streaming infrastructure
+
+---
+
+## Focus Areas
+
+• Node.js systems  
+• Discord automation  
+• media pipelines  
+• AI tooling  
+• experimental infrastructure
+
+---
+
+## About
+
+Liteyear began as a web design studio in 2014.
+
+Today it functions more as a development lab for the tools and systems behind independent media projects.
 
 ---
 
@@ -34,5 +64,3 @@ At Liteyear Design, we specialize in building **cutting-edge websites** and craf
 ---
 
 ### 🚀 **Let’s Build Something Together:**
-Whether you're looking to build a brand-new website or revitalize your online presence, we’re here to make it happen. Let’s create something amazing!
-
