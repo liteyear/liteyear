@@ -64,10 +64,11 @@ Today it functions as a development lab for the tools and systems behind indepen
 
 ---
 
-### 📊 **Liteyear’s GitHub Stats:**
+### 📊 **Liteyear's GitHub Stats:**
 
-![Liteyear's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liteyear&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liteyear&layout=compact)
+![Liteyear's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liteyear&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liteyear&layout=compact&theme=radical) 
 
 ---
 
