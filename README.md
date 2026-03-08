@@ -1,4 +1,4 @@
-![Liteyear Design Header Image](https://images.liteyeardesign.com/images/LDBANNER.png)
+![Liteyear Design Header Image](https://images.liteyeardesign.com/LDBANNER.png)
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
