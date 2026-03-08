@@ -46,8 +46,9 @@ Liteyear began as a web design studio in 2014. Today it functions as a developme
 
 ### 📊 **GitHub Activity**
 
+
 ![Liteyear's Stats](https://img.shields.io/github/followers/liteyear?label=Followers&style=for-the-badge&color=5865F2)
-![Liteyear's Repo Count](https://img.shields.io/github/repos/all/liteyear?label=Repositories&style=for-the-badge&color=orange)
+![Liteyear's Repos](https://img.shields.io/badge/Repositories-11-orange?style=for-the-badge)
 
 ---
 
