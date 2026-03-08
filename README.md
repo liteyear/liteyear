@@ -60,7 +60,7 @@ Tools and experiments around:
 
 Liteyear began as a web design studio in 2014.
 
-Today it functions more as a development lab for the tools and systems behind independent media projects.
+Today it functions as a development lab for the tools and systems behind independent media projects.
 
 ---
 
