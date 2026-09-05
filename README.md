@@ -71,9 +71,11 @@ A custom editorial and media platform for filmmaker and researcher Jason Abadi, 
 
 <div align="center">
 
-![Liteyear GitHub statistics](https://github-readme-stats.vercel.app/api?username=liteyear&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B0B0B&title_color=E3231F&icon_color=E3231F&text_color=F4F1EC&ring_color=E3231F)
+![Liteyear contribution history](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liteyear&theme=github_dark)
 
-![Liteyear contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=liteyear&bg_color=0B0B0B&color=F4F1EC&line=E3231F&point=FFFFFF&area=true&area_color=E3231F&hide_border=true&custom_title=Public%20Contribution%20Activity)
+![Liteyear GitHub statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liteyear&theme=github_dark)
+
+![Liteyear contribution streak](https://streak-stats.demolab.com?user=liteyear&theme=dark&hide_border=true&ring=E3231F&fire=E3231F&currStreakLabel=E3231F)
 
 </div>
 
