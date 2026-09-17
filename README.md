@@ -1,6 +1,8 @@
 <div align="center">
 
-<a href="https://liteyeardesign.com"><picture><source media="(max-width: 600px)" srcset="./assets/studio-header-mobile.svg" /><img src="./assets/studio-header.svg" width="100%" alt="Liteyear Design Labs. Independent design and development. Websites, software and systems for people who create." /></picture></a>
+<a href="https://liteyeardesign.com"><img src="./assets/liteyear-banner.png" width="100%" alt="Official Liteyear Design yellow and black logo" /></a>
+
+<a href="https://liteyeardesign.com"><picture><source media="(max-width: 600px)" srcset="./assets/studio-header-mobile.svg" /><img src="./assets/studio-header.svg" width="100%" alt="Independent design and development. Websites, software and systems for people who create." /></picture></a>
 
 **[STUDIO](https://liteyeardesign.com) &nbsp; / &nbsp; [OPEN SOURCE](#open-source) &nbsp; / &nbsp; [SELECTED WORK](#selected-work) &nbsp; / &nbsp; [BUILD WITH US](#build-with-us)**
 
