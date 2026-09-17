@@ -1,6 +1,6 @@
 <div align="center">
 
-![Liteyear Design](https://images.liteyeardesign.com/LDBANNER.png)
+![Liteyear Design](https://images.liteyeardesign.com/LDBANNER_2.png)
 
 # LITEYEAR DESIGN LABS
 
