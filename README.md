@@ -12,8 +12,6 @@
 
 **Liteyear Design is an independent design and development studio founded in 2014.** We build websites, applications, broadcast tools, and automation for creators, communities, and digital brands.
 
-Led by **Jason Abadi**, an artist, filmmaker, musician, and developer. The work starts with practical needs: put track titles on a live stream, give a community its own radio stations, or build a website that brings a whole creative project together. Design and development happen under one roof.
-
 ## Open source
 
 Free tools from the studio. Download a release, read the setup guide, or get into the code.
