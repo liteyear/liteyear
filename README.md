@@ -2,8 +2,6 @@
 
 <a href="https://liteyeardesign.com"><img src="./assets/liteyear-banner.png" width="100%" alt="Official Liteyear Design yellow and black logo" /></a>
 
-<a href="https://liteyeardesign.com"><picture><source media="(max-width: 600px)" srcset="./assets/studio-header-mobile.svg" /><img src="./assets/studio-header.svg" width="100%" alt="Independent design and development. Websites, software and systems for people who create." /></picture></a>
-
 **[STUDIO](https://liteyeardesign.com) &nbsp; / &nbsp; [OPEN SOURCE](#open-source) &nbsp; / &nbsp; [SELECTED WORK](#selected-work) &nbsp; / &nbsp; [BUILD WITH US](#build-with-us)**
 
 </div>
@@ -18,7 +16,7 @@ Led by **Jason Abadi**, an artist, filmmaker, musician, and developer. The work 
 
 Free tools from the studio. Download a release, read the setup guide, or get into the code.
 
-<a href="https://github.com/liteyear/ableton-now-playing"><picture><source media="(max-width: 600px)" srcset="./assets/ableton-now-playing-mobile.svg" /><img src="./assets/ableton-now-playing.svg" width="100%" alt="01 / Ableton Now Playing. From your Live set to your live stream. macOS · Ableton Live · OBS." /></picture></a>
+<a href="https://github.com/liteyear/ableton-now-playing"><picture><source media="(max-width: 600px)" srcset="./assets/ableton-now-playing-mobile-yellow.svg" /><img src="./assets/ableton-now-playing-yellow.svg" width="100%" alt="01 / Ableton Now Playing. From your Live set to your live stream. macOS · Ableton Live · OBS." /></picture></a>
 
 Bring your **Ableton Live Session View clip titles into OBS** with a lightweight Mac app, a guided setup wizard, and a ready-styled overlay. Intel and Apple Silicon runtimes are included in the Mac download. No CSS editing or separate Node installation.
 
@@ -28,7 +26,7 @@ Bring your **Ableton Live Session View clip titles into OBS** with a lightweight
 
 <br /><br />
 
-<a href="https://github.com/liteyear/NEXP.FM-2.0"><picture><source media="(max-width: 600px)" srcset="./assets/nexp-fm-mobile.svg" /><img src="./assets/nexp-fm.svg" width="100%" alt="02 / NEXP.FM. Your playlists. Your stations. Your server. SoundCloud · Discord · Self-hosted." /></picture></a>
+<a href="https://github.com/liteyear/NEXP.FM-2.0"><picture><source media="(max-width: 600px)" srcset="./assets/nexp-fm-mobile-yellow.svg" /><img src="./assets/nexp-fm-yellow.svg" width="100%" alt="02 / NEXP.FM. Your playlists. Your stations. Your server. SoundCloud · Discord · Self-hosted." /></picture></a>
 
 Turn **your own public SoundCloud playlists into Discord radio stations**. Browse stations with a dropdown or slash command, manage DJ permissions, and keep independent playback settings for each server. Includes guided configuration, saved station selection, and reconnect recovery.
 
@@ -95,4 +93,4 @@ Need a website, a custom application, or a better way to run your creative work?
 
 <br />
 
-<img src="./assets/studio-footer.svg" width="100%" alt="Liteyear Design Labs / Independent since 2014 / Design. Develop. Create." />
+<img src="./assets/studio-footer-yellow.svg" width="100%" alt="Liteyear Design Labs / Independent since 2014 / Design. Develop. Create." />
