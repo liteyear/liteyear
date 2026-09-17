@@ -31,17 +31,13 @@ The studio combines visual design with practical engineering: polished public-fa
 
 ## Selected work
 
-### [NEXP.FM 2.0](https://github.com/liteyear/NEXP.FM-2.0)
+### [Ableton Now Playing](https://github.com/liteyear/ableton-now-playing)
 
-A multi-station Discord radio system built for continuous playback, station switching, and reliable voice-channel operation.
+A free Mac app that brings Ableton Live track titles into OBS, with guided setup, bundled AbletonOSC, and a complete stream overlay.
 
-### [NEXP.FM Bot](https://github.com/liteyear/NEXP.FM-Bot)
+### [NEXP.FM](https://github.com/liteyear/NEXP.FM-2.0)
 
-The original broadcast bot project and foundation for Liteyear's evolving Discord audio infrastructure.
-
-### SkySignal.AM
-
-A 24/7 broadcast engine that turns podcast feeds into an autonomous Discord radio station using Node.js, RSS, Discord voice, and FFmpeg.
+An open-source Discord radio bot that turns your own SoundCloud playlists into selectable stations, with station dropdowns, continuous playback, and independent server configuration.
 
 ### [JasonAbadi.com](https://jasonabadi.com)
 
