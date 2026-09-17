@@ -1,88 +1,96 @@
 <div align="center">
 
-![Liteyear Design](https://images.liteyeardesign.com/LDBANNER_2.png)
+<a href="https://liteyeardesign.com"><picture><source media="(max-width: 600px)" srcset="./assets/studio-header-mobile.svg" /><img src="./assets/studio-header.svg" width="100%" alt="Liteyear Design Labs. Independent design and development. Websites, software and systems for people who create." /></picture></a>
 
-# LITEYEAR DESIGN LABS
-
-**Web platforms · media systems · automation · independent digital infrastructure**
-
-[![Website](https://img.shields.io/badge/Liteyear_Design-Visit_the_Studio-E3231F?style=for-the-badge&labelColor=0B0B0B)](https://liteyeardesign.com)
-[![Jason Abadi](https://img.shields.io/badge/JasonAbadi.com-Selected_Work-F4F1EC?style=for-the-badge&labelColor=0B0B0B)](https://jasonabadi.com)
+**[STUDIO](https://liteyeardesign.com) &nbsp; / &nbsp; [OPEN SOURCE](#open-source) &nbsp; / &nbsp; [SELECTED WORK](#selected-work) &nbsp; / &nbsp; [BUILD WITH US](#build-with-us)**
 
 </div>
 
----
+## Built by a creator. Built to be used.
 
-## About
+**Liteyear Design is an independent design and development studio founded in 2014.** We build websites, applications, broadcast tools, and automation for creators, communities, and digital brands.
 
-Liteyear Design is an independent design and development studio founded in 2014. We build websites, applications, bots, broadcast tools, and automated media systems for creators and digital brands.
+Led by **Jason Abadi**, an artist, filmmaker, musician, and developer. The work starts with practical needs: put track titles on a live stream, give a community its own radio stations, or build a website that brings a whole creative project together. Design and development happen under one roof.
 
-The studio combines visual design with practical engineering: polished public-facing experiences backed by infrastructure that is maintainable, efficient, and built for real production use.
+## Open source
 
-## What we build
+Free tools from the studio. Download a release, read the setup guide, or get into the code.
 
-| Discipline | Capabilities |
-|---|---|
-| **Web design & development** | Responsive websites, landing pages, publishing platforms, ecommerce, and custom front ends |
-| **Applications & automation** | Node.js and Java applications, API integrations, scheduled workflows, and operational tooling |
-| **Media infrastructure** | FFmpeg pipelines, RSS ingestion, streaming systems, audio processing, and automated publishing |
-| **Community systems** | Discord bots, voice infrastructure, moderation tools, commands, and persistent playback |
-| **Platform development** | WordPress, WooCommerce, Shopify, Git-based deployments, and production maintenance |
+<a href="https://github.com/liteyear/ableton-now-playing"><picture><source media="(max-width: 600px)" srcset="./assets/ableton-now-playing-mobile.svg" /><img src="./assets/ableton-now-playing.svg" width="100%" alt="01 / Ableton Now Playing. From your Live set to your live stream. macOS · Ableton Live · OBS." /></picture></a>
+
+Bring your **Ableton Live Session View clip titles into OBS** with a lightweight Mac app, a guided setup wizard, and a ready-styled overlay. Intel and Apple Silicon runtimes are included in the Mac download. No CSS editing or separate Node installation.
+
+**[Download for Mac →](https://github.com/liteyear/ableton-now-playing/releases/latest)** &nbsp; · &nbsp; [Setup guide](https://github.com/liteyear/ableton-now-playing/blob/main/INSTALL.md) &nbsp; · &nbsp; [Source](https://github.com/liteyear/ableton-now-playing) &nbsp; · &nbsp; [Report an issue](https://github.com/liteyear/ableton-now-playing/issues)
+
+<sub>macOS 11+ · Ableton Live 11+ · OBS Studio · MIT license</sub>
+
+<br /><br />
+
+<a href="https://github.com/liteyear/NEXP.FM-2.0"><picture><source media="(max-width: 600px)" srcset="./assets/nexp-fm-mobile.svg" /><img src="./assets/nexp-fm.svg" width="100%" alt="02 / NEXP.FM. Your playlists. Your stations. Your server. SoundCloud · Discord · Self-hosted." /></picture></a>
+
+Turn **your own public SoundCloud playlists into Discord radio stations**. Browse stations with a dropdown or slash command, manage DJ permissions, and keep independent playback settings for each server. Includes guided configuration, saved station selection, and reconnect recovery.
+
+**[Download NEXP.FM →](https://github.com/liteyear/NEXP.FM-2.0/releases/latest)** &nbsp; · &nbsp; [Setup guide](https://github.com/liteyear/NEXP.FM-2.0/blob/main/SETUP.md) &nbsp; · &nbsp; [Source](https://github.com/liteyear/NEXP.FM-2.0) &nbsp; · &nbsp; [Report an issue](https://github.com/liteyear/NEXP.FM-2.0/issues)
+
+<sub>Self-hosted · Node.js + FFmpeg or Docker · MIT license</sub>
+
+<details>
+<summary><strong>Already using an older NEXP.FM bot?</strong></summary>
+
+Both earlier versions have been consolidated into NEXP.FM 3.0. The maintained repository keeps the `NEXP.FM-2.0` URL so existing links continue to work. Start with the [migration guide](https://github.com/liteyear/NEXP.FM-2.0/blob/main/MIGRATION.md).
+
+</details>
+
+### From the lab
+
+<!-- RELEASES:START -->
+| Project | Latest release | Published |
+| :--- | :--- | :--- |
+| Ableton Now Playing | [v1.0.0](https://github.com/liteyear/ableton-now-playing/releases/tag/v1.0.0) | September 17, 2026 |
+| NEXP.FM | [v3.0.1](https://github.com/liteyear/NEXP.FM-2.0/releases/tag/v3.0.1) | September 17, 2026 |
+
+<sub>Public release data checked September 17, 2026 (UTC). Refreshed daily; the last successful snapshot stays visible if a refresh is unavailable.</sub>
+<!-- RELEASES:END -->
 
 ## Selected work
 
-### [Ableton Now Playing](https://github.com/liteyear/ableton-now-playing)
+Alongside our public tools, we design and develop websites for independent media, artists, and organizations.
 
-A free Mac app that brings Ableton Live track titles into OBS, with guided setup, bundled AbletonOSC, and a complete stream overlay.
+| Project | What we built | Explore |
+| :--- | :--- | :--- |
+| **Jason Abadi** | An editorial and media platform connecting films, writing, radio, and community. | [jasonabadi.com ↗](https://jasonabadi.com) |
+| **Nebulab Media** | A shared home for independent creative projects across music, streaming, and media. | [nebulabmedia.com ↗](https://nebulabmedia.com) |
+| **Team Martell Clout** | An artist website bringing music, identity, and embedded listening together. | [teammartellclout.com ↗](https://teammartellclout.com) |
+| **IM Workshops** | A public website for workshops, program information, and downloadable resources. | [imworkshops.me ↗](https://imworkshops.me) |
 
-### [NEXP.FM](https://github.com/liteyear/NEXP.FM-2.0)
+<sub>Client and production source code stays private. Public tools and their documentation are available in the repositories linked above.</sub>
 
-An open-source Discord radio bot that turns your own SoundCloud playlists into selectable stations, with station dropdowns, continuous playback, and independent server configuration.
+## Studio capabilities
 
-### [JasonAbadi.com](https://jasonabadi.com)
+| Design & web | Software & automation | Audio & community |
+| :--- | :--- | :--- |
+| Visual identity and interface design | Custom applications and API integrations | OBS tools and stream overlays |
+| Responsive websites and publishing | Scheduled workflows and deployment | Discord bots and station systems |
+| WordPress, WooCommerce, Shopify | Node.js, JavaScript, Java | FFmpeg, audio pipelines, RSS |
 
-A custom editorial and media platform for filmmaker and researcher Jason Abadi, including streaming, publishing, membership, and deployment systems.
+**Our approach:** make the interface clear, keep the moving parts manageable, and document how to use what we build. Our public tools include setup instructions and source code so people can run and adapt them themselves.
 
-> Production, client, and infrastructure repositories are kept private when they contain proprietary systems or operational configuration.
+<details>
+<summary><strong>Contribute, request a feature, or get support</strong></summary>
 
-## Core technologies
+- **Using a tool?** Start with its setup guide and release notes.
+- **Found a bug?** Open an issue in that project's repository. Include your operating system, app version, and steps to reproduce it. Remove tokens and personal data from logs.
+- **Have an improvement?** Open an issue to discuss it, or submit a focused pull request.
+- **Building something commercial?** Visit the studio for custom design and development.
 
-<div align="center">
+</details>
 
-![HTML5](https://img.shields.io/badge/HTML5-0B0B0B?style=flat-square&logo=html5&logoColor=E3231F)
-![CSS3](https://img.shields.io/badge/CSS3-0B0B0B?style=flat-square&logo=css&logoColor=E3231F)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B0B0B?style=flat-square&logo=javascript&logoColor=F4F1EC)
-![Node.js](https://img.shields.io/badge/Node.js-0B0B0B?style=flat-square&logo=nodedotjs&logoColor=E3231F)
-![Java](https://img.shields.io/badge/Java-0B0B0B?style=flat-square&logo=openjdk&logoColor=F4F1EC)
-![Git](https://img.shields.io/badge/Git-0B0B0B?style=flat-square&logo=git&logoColor=E3231F)
-![WordPress](https://img.shields.io/badge/WordPress-0B0B0B?style=flat-square&logo=wordpress&logoColor=F4F1EC)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-0B0B0B?style=flat-square&logo=woocommerce&logoColor=E3231F)
-![Shopify](https://img.shields.io/badge/Shopify-0B0B0B?style=flat-square&logo=shopify&logoColor=F4F1EC)
-![Discord](https://img.shields.io/badge/Discord-0B0B0B?style=flat-square&logo=discord&logoColor=E3231F)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-0B0B0B?style=flat-square&logo=ffmpeg&logoColor=F4F1EC)
+## Build with us
 
-</div>
+Need a website, a custom application, or a better way to run your creative work? Bring us the project.
 
-## Public development activity
+**[Visit Liteyear Design →](https://liteyeardesign.com)** &nbsp; · &nbsp; [Meet Jason](https://jasonabadi.com) &nbsp; · &nbsp; [Browse all repositories](https://github.com/liteyear?tab=repositories)
 
-<div align="center">
+<br />
 
-![Liteyear contribution history](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liteyear&theme=github_dark)
-
-![Liteyear GitHub statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liteyear&theme=github_dark)
-
-![Liteyear contribution streak](https://streak-stats.demolab.com?user=liteyear&theme=dark&hide_border=true&ring=E3231F&fire=E3231F&currStreakLabel=E3231F)
-
-</div>
-
-<sub>Activity graphics update automatically from public GitHub data. Work in private production repositories may not appear in these totals.</sub>
-
----
-
-<div align="center">
-
-**Design with purpose. Build for production.**
-
-[Liteyear Design](https://liteyeardesign.com) · [JasonAbadi.com](https://jasonabadi.com) · [GitHub Projects](https://github.com/liteyear?tab=repositories)
-
-</div>
+<img src="./assets/studio-footer.svg" width="100%" alt="Liteyear Design Labs / Independent since 2014 / Design. Develop. Create." />
