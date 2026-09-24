@@ -49,7 +49,7 @@ Both earlier versions have been consolidated into NEXP.FM 3.0. The maintained re
 | Ableton Now Playing | [v1.0.0](https://github.com/liteyear/ableton-now-playing/releases/tag/v1.0.0) | September 17, 2026 |
 | NEXP.FM | [v3.0.1](https://github.com/liteyear/NEXP.FM-2.0/releases/tag/v3.0.1) | September 17, 2026 |
 
-<sub>Public release data checked September 23, 2026 (UTC). Refreshed daily; the last successful snapshot stays visible if a refresh is unavailable.</sub>
+<sub>Public release data checked September 24, 2026 (UTC). Refreshed daily; the last successful snapshot stays visible if a refresh is unavailable.</sub>
 <!-- RELEASES:END -->
 
 ## Selected work
